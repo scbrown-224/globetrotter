@@ -1,0 +1,223 @@
+#nav {
+    padding: 10px;
+    border: 2px solid black;
+    margin: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: rgb(255, 253, 152);
+    color: green;
+}
+
+#nav a {
+    text-decoration: none;
+    color: rgb(103, 142, 103);
+}
+
+/* .child {
+    display: flex;
+    padding: 20px;
+    background-color: green;
+} */
+
+li {
+    display: inline; /* got rid of bullets? */
+}
+
+
+/* The hero image */
+.hero-image {
+    /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("assets/jj.jpeg");
+  
+    padding: 100px;
+
+    /* Set a specific height */
+    height: 50%;
+  
+    /* Position and center the image to scale nicely on all screens */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  
+  /* Place text in the middle of the image */
+  .hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+  
+/* need to align the lion image in the center */
+
+#lion {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.words {
+    text-align: center;
+}
+
+#attractions {
+    display: flex; 
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+.place {
+    /* border: 2px solid black; */
+    justify-content: space-around;
+    align-items: center;
+    margin: 40px;
+    padding: 20px;
+    border-radius: 25px;
+    background-color: rgb(255, 253, 152);
+}
+
+.photo {
+    width: 300px;
+    height: 200px;
+    border-radius: 25;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* padding: 20px;
+    background-color: rgb(255, 253, 152); */
+}
+
+.p {
+    /* margin-left: 30px; */
+    text-align: center;
+}
+
+
+#events {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.kid {
+    border: 5px solid rgb(103, 142, 103);
+    margin: 30px;
+    width: 650px;
+    padding: 20px;
+    border-radius: 25px;
+    background-color: rgb(255, 253, 152);
+}
+
+/* use flex and wrap to create the photo grid for the gallery!*/
+
+#gallery {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.single {
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+
+}
+
+.fig {
+    border: 5px solid rgb(103, 142, 103);
+    border-radius: 25px;
+    background-color: rgb(255, 253, 152);
+}
+
+.body {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.head {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.cap {
+    text-align: center;
+    padding: 10px;
+}
+
+.button {
+    background-color: #04AA6D; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+#up {
+    /* text-shadow: 3px 3px 1px black; */
+}
+
+html {
+    background-color: rgb(178, 206, 178);
+}
+
+body {
+    width: 85%;
+    margin: 0 auto;
+    /* background-color: rgb(178, 206, 178); */
+    background-color: rgb(103, 142, 103);
+    padding: 0 20px 20px 20px;
+    border: 1px solid black;
+}
+
+.loc {
+    text-align: center;
+}
+
+.subtitle {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    /* align-items: center;
+    justify-content: space-between; */
+}
+
+#vid {
+    margin-bottom: 20px;
+}
+
+/* media queries: break down by small, med, large */
+
+@media screen and (min-width: 768px) {
+    #nav a{
+        color: red;
+        
+    }
+    body {
+        background-color: rgb(178, 206, 178);
+
+    }
+    html {
+        background-color: rgb(103, 142, 103);
+    }
+}
+
