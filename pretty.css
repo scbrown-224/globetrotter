@@ -56,8 +56,11 @@ li {
 /* need to align the lion image in the center */
 
 #lion {
-    margin-top: 20px;
+
     margin-bottom: 20px;
+    padding: 15px;
+    background-color: rgb(255, 253, 152);
+    border-radius: 25px;
 }
 
 .words {
@@ -68,8 +71,14 @@ li {
     display: flex; 
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-between;
+    width: 60%;
     align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.test {
+    text-align: center;
 }
 
 
@@ -204,6 +213,16 @@ body {
 
 #vid {
     margin-bottom: 20px;
+    padding: 15px;
+    background-color: rgb(255, 253, 152);
+    border-radius: 25px;
+}
+
+#map {
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: rgb(255, 253, 152);
+    border-radius: 25px;
 }
 
 /* media queries: break down by small, med, large */
