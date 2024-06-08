@@ -67,6 +67,11 @@ Deployed Application (optional): [didn't deploy the site](ADD_LINK_HERE)
 
 <div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/ee9ee213b8c54892a39c60cf13243b23?sid=b10898d3-a08d-4309-81c0-ff5bf944c8d7" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+<a href="https://www.loom.com/share/YOUR_VIDEO_ID">
+   <p>Project video title</p>
+   <img style="max-width:300px;" src="[https://cdn.loom.com/sessions/thumbnails/YOUR_VIDEO_ID-with-play.gif](https://www.loom.com/share/ee9ee213b8c54892a39c60cf13243b23?sid=6ab37a3a-9976-470f-8a4f-a5348a66199a)">
+</a>
+
 ### Reflection
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
