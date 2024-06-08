@@ -70,6 +70,12 @@ Deployed Application (optional): [didn't deploy the site](ADD_LINK_HERE)
     </a>
   </div>
 
+  https://www.loom.com/share/ee9ee213b8c54892a39c60cf13243b23?sid=b9d4715d-a657-4f8d-8179-dcac208cc1e2
+<div>
+    <a href="https://www.loom.com/share/ee9ee213b8c54892a39c60cf13243b23">
+      <p>project 1 demo - Watch Video</p>
+    </a>
+
 ### Reflection
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
