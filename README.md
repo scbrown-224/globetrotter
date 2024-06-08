@@ -79,7 +79,7 @@ If I had more time, I would definetly change the structure of my HTML code so th
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Overall, I think that my project demo was successful. The envionment was more chill than I expected, so I didn't get nervous. One think that was unplanned was that I ended up explaining my areas of improvement during the part of the presentation where I was actually showing my website on screen. Because I did that, I didn't want to sound repetitive when I actually got to that slide, so I tried to improvise some other presentation content, but still ended up finishing with too much extra time. Next time, I'll try to walk away from the podium and be more interactive & make eye contact with the audience when I present
+Overall, I think that my project demo was successful. The envionment was more chill than I expected, so I didn't get nervous. One think that was unplanned was that I ended up explaining my areas of improvement during the part of the presentation where I was actually showing my website on screen. Because I did that, I didn't want to sound repetitive when I actually got to that slide, so I tried to improvise some other presentation content, but still ended up finishing with too much extra time. Next time, I'll try to walk away from the podium and be more interactive & make eye contact with the audience when I present. Also, I did a lot of soley minimum requirements (min number of pictures in the gallery, events, etc.), and I'd want to try to go above if given more time.
 
 ### Open-source libraries used
 
