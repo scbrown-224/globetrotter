@@ -68,9 +68,7 @@ Deployed Application (optional): [didn't deploy the site](ADD_LINK_HERE)
   https://www.loom.com/share/ee9ee213b8c54892a39c60cf13243b23?sid=b9d4715d-a657-4f8d-8179-dcac208cc1e2
 <div>
   
-    <a href="https://www.loom.com/share/ee9ee213b8c54892a39c60cf13243b23">
-  
-    </a>
+    
 
 ### Reflection
 
