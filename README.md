@@ -69,7 +69,7 @@ Deployed Application (optional): [didn't deploy the site](ADD_LINK_HERE)
 <div>
   
     <a href="https://www.loom.com/share/ee9ee213b8c54892a39c60cf13243b23">
-      <p>project 1 demo - Watch Video</p>
+  
     </a>
 
 ### Reflection
