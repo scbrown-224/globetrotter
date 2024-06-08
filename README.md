@@ -65,6 +65,8 @@ Deployed Application (optional): [didn't deploy the site](ADD_LINK_HERE)
 
 `TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video actually renders and is playable when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
 
+  https://www.loom.com/share/ee9ee213b8c54892a39c60cf13243b23?sid=b9d4715d-a657-4f8d-8179-dcac208cc1e2
+<div>
   
     <a href="https://www.loom.com/share/ee9ee213b8c54892a39c60cf13243b23">
       <p>project 1 demo - Watch Video</p>
