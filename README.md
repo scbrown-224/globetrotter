@@ -2,11 +2,11 @@
 
 ## Unit 1 Assignment: Globetrotter
 
-Submitted by: **NAME**
+Submitted by: Sydney Brown
 
-Estimated time spent: **#** hours spent in total
+Estimated time spent: 10 hours spent in total
 
-Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
+Deployed Application (optional): [didn't deploy the site](ADD_LINK_HERE)
 
 ### Application Features
 
@@ -71,15 +71,15 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
+I think the topics discussed in lab correlated very well with the skills we needed to implement in the project. Specifically, the essentials of HTML, like how to organize an HTML file and the important attributes, the essential parts of CSS for styling, and most importantly to this project: flexbox. I think an aspect of the program that I will have to adjust to is trying to implement coding techniques for the first time in a project. For example, I initially felt unprepared to use flexbox after our first lesson on it because I didn't have time to do the corresponding lab project. However, after the day of review, I felt more prepared to execute it today. 
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-Add your response here
+If I had more time, I would definetly change the structure of my HTML code so that I could go through the CSS process more efficiently. For example, I would be more specific and clear on naming the id's and classes of my divs, sections, and elements. I would also try to work on the website's UX. After watching other people's presentations, I would want to add a video in my banner instead of a still photo. I'd also want to learn the code to do get some motion with hovering over buttons (like having a element change color when a mouse is hovering over it before it's actually clicked). 
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+Overall, I think that my project demo was successful. The envionment was more chill than I expected, so I didn't get nervous. One think that was unplanned was that I ended up explaining my areas of improvement during the part of the presentation where I was actually showing my website on screen. Because I did that, I didn't want to sound repetitive when I actually got to that slide, so I tried to improvise some other presentation content, but still ended up finishing with too much extra time. Next time, I'll try to walk away from the podium and be more interactive & make eye contact with the audience when I present
 
 ### Open-source libraries used
 
@@ -87,4 +87,4 @@ Add your response here
 
 ### Shout out
 
-Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
+Shout out to Andy, Hanna, Nathan, and Keith for being integral parts to my completion of the project!
